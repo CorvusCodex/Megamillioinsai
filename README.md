@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/CorvusCodex/Megamillionsai/blob/main/MegamillionsAI.png?raw=true">
+  <img src="https://github.com/CorvusCodex/Megamillioinsai/blob/main/MegamillionsAI.png">
 </p>
 
 ## Megamillionsai
@@ -7,7 +7,7 @@
 Megamillionsai is a lottery prediction artificial intelligence that uses machine learning to predict the winning numbers.
 
 ## If you need powerfull and advanced AI with GUI, you can buy the compiled standalone application for windows from here:
-https://buymeacoffee.com/corvuscodex/e/320434
+https://buymeacoffee.com/corvuscodex/e/325420
 
 ------
 Lottery AI
