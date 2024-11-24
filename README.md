@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/CorvusCodex/Megamillionsai/blob/main/MegamillionsAI.png?raw=true">
+  <img src="https://github.com/CorvusCodex/Megamillionsai/blob/main/MegamillionsAI.png.png?raw=true">
 </p>
 
 ## Megamillionsai
