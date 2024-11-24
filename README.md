@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/CorvusCodex/Megamillionsai/blob/main/Megamillionsai.png?raw=true">
+  <img src="https://github.com/CorvusCodex/Megamillionsai/blob/main/MegamillionsAI.png?raw=true">
 </p>
 
 ## Megamillionsai
@@ -13,8 +13,8 @@ https://buymeacoffee.com/corvuscodex/e/320434
 Lottery AI
 https://buymeacoffee.com/corvuscodex/e/155047
 
-MegaMillionsAI
-https://buymeacoffee.com/corvuscodex/e/325420
+PowerballAI
+https://buymeacoffee.com/corvuscodex/e/320434
 
 
 ## Installation
