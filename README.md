@@ -19,7 +19,7 @@ https://buymeacoffee.com/corvuscodex/e/320434
 
 ## Installation
 
-To install Megamillionsai, you will need to have Python 3.x and the following libraries installed:
+To install MegamillionsAI, you will need to have Python 3.x and the following libraries installed:
 - numpy
 - tensorflow
 - keras
