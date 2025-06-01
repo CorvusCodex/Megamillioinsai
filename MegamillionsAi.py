@@ -7,7 +7,6 @@ from art import text2art
 
 # Function to print the introduction of the program
 def print_intro():
-    # Generate ASCII art with the text "MegamillionsAi"
     ascii_art = text2art("MegamillionsAi")
     # Print the introduction and ASCII art
     print("============================================================")
